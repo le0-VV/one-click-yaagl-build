@@ -36,4 +36,4 @@ After the script finished running, you should see "Yaagl OS BETA.app" show up in
 
 You can minimise the terminal window, but do not close it until you see `[Process completed]` at the bottom of the window.
 
-If you ran into any issue, either open an issue here on github or @ me on yaagl's discord server, I may not I'mmediatly respond. DO NOT DM ME
+If you ran into any issue, ~~either open an issue here on github or @ me on yaagl's discord server, I may not I'mmediatly respond.~~ DO NOT DM ME,  DO NOT @ ME ON DISCORD, OPEN AN ISSUE HERE ON GITHUB
