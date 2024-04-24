@@ -6,6 +6,8 @@ This script will build Yaagl using the latest commits from Yaagl's source code. 
 
 As mentioned, Yaagl may not be stable, the anime game may have visual glitches, especially around new areas. Give the game some time to load in everything properly, do not panic.
 
+Please use the official Yaagl release immediately after its released
+
 # Prerequisites
 
 Homebrew is required for buidling Yaagl, especially for this script. Install homebrew by following this guide (https://www.youtube.com/watch?v=IWJKRmFLn-g), or visit homebrew directly (https://brew.sh) if you're confident with commandline
